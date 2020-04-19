@@ -25,3 +25,15 @@ secrets:
   SECRET_1: ''
   SECRET_2: ''
 ```
+
+
+
+Architecture
+
+On a cluster of computers setup the deos server. A user should be able to log into the deos server through a client (web, native), have access to a file system, load OSes into planes, install/setup applications, setup OS configurations.
+
+
+The deos server consists of
++ a standard web server, receiving requsts, streaming the data, controlling user authentication, etc.
++ a virtualizer server, responsible for running the OS images with their applications and sending the pixels stream to the web server
++ a file system, where all the user data is stored, or where the user data is cached into, if using local main storage
