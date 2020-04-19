@@ -28,5 +28,5 @@ In the browser, on a "native" program, or on a raw machine, connect to an API (e
 <p align="center">
     <img src="https://raw.githubusercontent.com/plurid/deos/master/about/identity/deos-mockup.png" height="500px">
     <br />
-    deOS mockup
+    deOS mockup of Ubuntu, MacOS, Windows
 </p>
