@@ -1,20 +1,23 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/plurid/deos/master/about/identity/deos-logo.png" height="250px">
+    <a target="_blank" href="https://deos.plurid.com">
+        <img src="https://raw.githubusercontent.com/plurid/deos/master/about/identity/deos-logo.png" height="250px">
+    </a>
+    <br />
     <br />
     <a target="_blank" href="https://github.com/plurid/deos/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg?colorB=1380C3&style=for-the-badge" alt="License: MIT">
+        <img src="https://img.shields.io/badge/license-DEL-blue.svg?colorB=1380C3&style=for-the-badge" alt="License: DEL">
     </a>
 </p>
 
 
 
 <h1 align="center">
-    deOS
+    deos
 </h1>
 
 
 <h3 align="center">
-    Plurid-inspired deOperating System
+    Deoperating System
 </h3>
 
 
